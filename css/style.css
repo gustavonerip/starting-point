@@ -1,0 +1,28 @@
+:root{
+    /*======= CSS VARIABLES GO HERE =======*/
+  
+  }
+  
+   /*======= WEBSITE RESET =======*/
+
+  *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  
+  html{
+      scroll-behavior: smooth;
+  }
+  
+  /* body{
+      
+  }
+  
+  a{
+      text-decoration: none;
+  }
+  
+  li{
+      list-style: none;
+  } */
